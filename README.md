@@ -44,8 +44,7 @@ To use this project:
 4. Analyze the output and derive actionable insights for your specific use case.
 
 **Catch me**
-[Linkedin]
 
-(https://www.linkedin.com/in/sakavivek911/)
+[Linkedin](https://www.linkedin.com/in/sakavivek911/)
 
 
